@@ -39,6 +39,5 @@
     chosen {
         zmk,kscan = &kscan0;
         zmk,physical-layout = &tanpa_layout;
-        zmk,underglow = &led_strip;
     };
 };
