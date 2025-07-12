@@ -12,6 +12,6 @@
 };
 
 &default_transform {
-  col-offset = <7>;      , <&pro_micro 14 GPIO_ACTIVE_HIGH>
+  col-offset = <7>;
 
 };
