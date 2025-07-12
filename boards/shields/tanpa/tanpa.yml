@@ -1,0 +1,11 @@
+file_format: "1"
+id: tanpa
+name: tanpa
+type: shield
+url: https://github.com/finn-e/tanpa-zmk-module.git
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - tanpa_left
+  - tanpa_right

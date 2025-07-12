@@ -1,0 +1,5 @@
+config SHIELD_tanpa_LEFT
+    def_bool $(shields_list_contains, tanpa_left)
+
+config SHIELD_tanpa_RIGHT
+    def_bool $(shields_list_contains, tanpa_right)
