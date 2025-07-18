@@ -1,4 +1,4 @@
-if SHIELD_TANPA_R
+if SHIELD_TANPA_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "Tanpa_R"
@@ -11,7 +11,7 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
-if SHIELD_TANPA_L
+if SHIELD_TANPA_LEFT
 
 config ZMK_KEYBOARD_NAME
     default "Tanpa_L"
